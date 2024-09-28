@@ -1,0 +1,8 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+17:15:15	112/112	---MCZ	404	error ('Not%20Found')	text/html	date:Thu,%2015%20Aug%202024%2004:15:17%20GMT	https://utg.lol/robots.txt		(from )
+17:15:15	6003/6003	---MCZ	200	added ('OK')	text/html	date:Thu,%2015%20Aug%202024%2004:15:17%20GMT	https://utg.lol/	C:/My%20Web%20Sites/utg/utg.lol/index.html	(from )
+17:15:16	3303/3303	---MCZ	200	added ('OK')	text/css	etag:W/%2286ed8a55ce68432c5893784cae51466c%22	https://utg.lol/style.css	C:/My%20Web%20Sites/utg/utg.lol/style.css	(from https://utg.lol/)
+17:15:16	31702/31702	---MCZ	200	added ('OK')	image/vnd.microsoft.icon	etag:W/%2272005c750314fd049ecddc7b1a12b215%22	https://utg.lol/assets/utg.ico	C:/My%20Web%20Sites/utg/utg.lol/assets/utg.ico	(from https://utg.lol/)
+17:15:16	89956/89956	---M--	200	added ('OK')	image/png	etag:%22839a0a51cc3c9c4807215cd4d9bac0f0%22	https://utg.lol/assets/title/untitled.png	C:/My%20Web%20Sites/utg/utg.lol/assets/title/untitled.png	(from https://utg.lol/)
+17:15:16	143486/143486	---M--	200	added ('OK')	image/png	etag:%220afd265cab237019dc270b48b4ff267d%22	https://utg.lol/assets/title/tag.png	C:/My%20Web%20Sites/utg/utg.lol/assets/title/tag.png	(from https://utg.lol/)
+17:15:16	135196/135196	---M--	200	added ('OK')	image/png	etag:%221ca730c791b664600d16eb5ea99bd4d4%22	https://utg.lol/assets/title/game.png	C:/My%20Web%20Sites/utg/utg.lol/assets/title/game.png	(from https://utg.lol/)
